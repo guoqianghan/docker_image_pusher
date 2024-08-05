@@ -1,1 +1,2 @@
 nginx
+emqx/emqx-enterprise
